@@ -1,0 +1,6 @@
+ @import "tailwindcss";
+@import 'tailwind-scrollbar-hide/v4';
+:root {
+  background-color: #0F1014;
+}
+
