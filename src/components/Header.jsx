@@ -5,7 +5,6 @@ import { HiHome, HiMagnifyingGlass, HiStar, HiPlayCircle, HiTv } from "react-ico
 import { HiPlus, HiDotsVertical  } from "react-icons/hi";
 import HeaderItem from './HeaderItem';
 import IconButton from "@mui/material/IconButton"
-import MenuIcon from "@mui/icons-material/Menu"
 import DrawerComponent from "./Drawer"
 
 function Header() {
